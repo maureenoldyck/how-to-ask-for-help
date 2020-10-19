@@ -4,6 +4,7 @@
 - Keep the company's culture in mind (formal versus less formal)
 - Choose an appropriate medium (e-mail, discord, ...)
    - E-mail
+        - Keep the recipient's language in mind
         - Add urgent in the first line if your question is urgent
         - Add a specific title
         - A polite greeting
